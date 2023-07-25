@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class home_work2_1 {
     public static void main(String[] args) {
+
         int[] array = new int[] {64, 42, 32, 41, 32, 53, 16, 24, 57, 42, 74, 55, 36};
         countSort(array, 100);
         System.out.println(Arrays.toString(array));

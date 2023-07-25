@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class home_work2_3 {
     public static void main(String[] args) {
+
         int[] arr = new int[]{2, 3, 0, 5, 1};
         int[] arr2 = new int[]{2, 3, 0, 5, 1};
         shift_array(arr, 2);
